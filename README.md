@@ -1,4 +1,4 @@
-# Studying GSAP 3 Express
+# Studying GSAP
 
 ...as a very first step to be a creative, study [GSAP](https://gsap.com/)
 
