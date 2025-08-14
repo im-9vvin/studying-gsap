@@ -1,3 +1,4 @@
+import { gsap } from 'gsap';
 gsap
   .timeline()
   .from('#demo', { autoAlpha: 0 })
